@@ -3,6 +3,11 @@ define('ROOT','localhost');
 define('DATABASE','laiken');
 define('USER','root');
 define('PASS','');
+define('CTRL','http://localhost/laiken/ctrl/');
+define('VIEW','http://localhost/laiken/view/');
+define('CSS','http://localhost/laiken/css/');
+define('IMAGES','http://localhost/laiken/images/');
+
 
 
 /*function conectar_bd()

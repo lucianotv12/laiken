@@ -1,4 +1,6 @@
-
+<?
+include_once 'funciones.php';
+?>
 
 <!DOCTYPE html>
 <html dir="ltr" lang="en-US">
@@ -133,7 +135,7 @@
 							<li id="li_1" ><a href="#" data-scrollto="#us" id="_nosotros"><div>NOSOTROS</div></a></li>
 							<li id="li_2" ><a href="#" data-scrollto="#divisiones" id="_divisiones"><div>DIVISIONES</div></a>
 								<ul>
-									<li ><a style="color:white;background-color:#fbb034" href="catodica.php"><div style="color:white">PROTECCIÓN CATÓDICA</div></a></li>
+									<li ><a style="color:white;background-color:#fbb034" href="ctrl/catodica/"><div style="color:white">PROTECCIÓN CATÓDICA</div></a></li>
 									<li ><a style="color:white;background-color:#ee3135" href="lineas_especiales.php"><div style="color:white">LINEAS ESPECIALES</div></a></li>
 									<li ><a style="background-color:#999999" href="grafito.php"><div style="color:white">GRAFITO</div></a></li>
 
