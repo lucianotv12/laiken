@@ -290,8 +290,4 @@
 
 					</div><!-- #portfolio end -->
 
-
-
-
-
 				<div class="clear"></div>
